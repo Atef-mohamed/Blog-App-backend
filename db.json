@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "email": "mido@gmail.com",
+      "password": "$2a$10$QrEY6JeZ4JqwI//xdDRrUObRYQ3ariYd5eFC9fWyDflSt0kXOA.U2",
+      "name": "mohamed",
+      "id": 2
+    },
+    {
+      "email": "atef@gmail.com",
+      "password": "$2a$10$zKP.BSshbIstX9aetV11aOOEXiGBhbgKZSVwcQ9SJUrGzxxrhzE96",
+      "name": "Atef mohamed",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "React Basics",
+      "description": "Introduction to React components, props, and state.",
+      "image": "https://images.presentationgo.com/2025/04/software-developer-coding-laptop.jpg",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Advanced React",
+      "description": "Hooks, Context API, and performance optimization.",
+      "image": "https://media.istockphoto.com/id/1265176772/photo/computer-programmer-working-on-laptop.jpg?s=612x612&w=0&k=20&c=O8F--H55xg6YEnCP9FD1pLOLeI1qRJiePEb2oae-Khw=",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Redux Toolkit",
+      "description": "State management made easy with Redux Toolkit.",
+      "image": "https://workingnation.com/wp-content/uploads/2021/12/shutterstock_459867970-scaled.jpg",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Node.js Intro",
+      "description": "Learn how Node.js works under the hood.",
+      "image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?semt=ais_hybrid&w=740&q=80",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "title": "Express.js Crash Course",
+      "description": "Build APIs quickly with Express.js.",
+      "image": "https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=",
+      "userId": 2
+    },
+    {
+      "id": 6,
+      "title": "MongoDB Basics",
+      "description": "Understand NoSQL databases and MongoDB CRUD operations.",
+      "image": "https://img.freepik.com/premium-vector/coding-programmer-laptop-internet-work-concept-hand-drawn-hand-programmer-laptop-with-code-concept-sketch_160308-2737.jpg?w=360",
+      "userId": 3
+    },
+    {
+      "id": 7,
+      "title": "Fullstack MERN",
+      "description": "Build a fullstack app using Mongo, Express, React, and Node.",
+      "image": "https://www.excelsior.edu/wp-content/uploads/2025/01/computer-programming-vs-computer-science-image_blog.jpg",
+      "userId": 3
+    }
+  ]
+}
