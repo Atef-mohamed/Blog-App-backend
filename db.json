@@ -3,7 +3,7 @@
     {
       "email": "mido@gmail.com",
       "password": "$2a$10$QrEY6JeZ4JqwI//xdDRrUObRYQ3ariYd5eFC9fWyDflSt0kXOA.U2",
-      "name": "mohamed",
+      "name": "Mohamed mohamed",
       "id": 2
     },
     {
@@ -11,57 +11,125 @@
       "password": "$2a$10$zKP.BSshbIstX9aetV11aOOEXiGBhbgKZSVwcQ9SJUrGzxxrhzE96",
       "name": "Atef mohamed",
       "id": 1
+    },
+    {
+      "email": "kareem@gmail.com",
+      "password": "$2a$10$CNkHl8vGgeiSacDlUOWc8ufdGa0e65m3tskVQ85YMlONJByHc.oEC",
+      "name": "Kareem mohamed",
+      "id": 3
+    },
+    {
+      "email": "omar@gmail.com",
+      "password": "$2a$10$Cm66cqWUa3LOsCKCp5EKpOuy0iY574fi7pq7lMXgWjW5e/56Lk6K6",
+      "name": "Omar khaled",
+      "id": 4
     }
   ],
   "posts": [
     {
       "id": 1,
-      "title": "React Basics",
-      "description": "Introduction to React components, props, and state.",
-      "image": "https://images.presentationgo.com/2025/04/software-developer-coding-laptop.jpg",
-      "userId": 1
+      "title": "Advanced React",
+      "description": "Explore advanced topics in React such as hooks, Context API, code splitting, and performance optimization to create highly scalable applications.",
+      "image": "https://miro.medium.com/1*y44ZgXtrSJOCLNJGIbHGFA.jpeg",
+      "userId": 2
     },
     {
       "id": 2,
       "title": "Advanced React",
-      "description": "Hooks, Context API, and performance optimization.",
-      "image": "https://media.istockphoto.com/id/1265176772/photo/computer-programmer-working-on-laptop.jpg?s=612x612&w=0&k=20&c=O8F--H55xg6YEnCP9FD1pLOLeI1qRJiePEb2oae-Khw=",
+      "description": "lets go to Explore advanced topics in React such as hooks, Context API, code splitting, and performance optimization to create highly scalable applications.",
+      "image": "https://i.ibb.co/DDbRs5p9/UIUX.jpg",
       "userId": 1
     },
     {
       "id": 3,
       "title": "Redux Toolkit",
-      "description": "State management made easy with Redux Toolkit.",
+      "description": "Understand how Redux Toolkit simplifies state management with less boilerplate, built-in middleware, and powerful data-fetching patterns.",
+      "image": "https://www.codingem.com/wp-content/uploads/2023/02/how-to-start-a-coding-blog.png",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "title": "Node.js Intro",
+      "description": "A beginner-friendly introduction to Node.js covering how it handles asynchronous operations, event-driven architecture, and backend development basics.",
       "image": "https://workingnation.com/wp-content/uploads/2021/12/shutterstock_459867970-scaled.jpg",
       "userId": 1
     },
     {
-      "id": 2,
-      "title": "Node.js Intro",
-      "description": "Learn how Node.js works under the hood.",
-      "image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?semt=ais_hybrid&w=740&q=80",
-      "userId": 2
-    },
-    {
       "id": 5,
       "title": "Express.js Crash Course",
-      "description": "Build APIs quickly with Express.js.",
-      "image": "https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=",
+      "description": "Learn how to quickly build robust APIs using Express.js with features like routing, middleware, and error handling for backend development.",
+      "image": "https://contentstatic.techgig.com/photo/75320007.cms",
       "userId": 2
     },
     {
       "id": 6,
       "title": "MongoDB Basics",
-      "description": "Understand NoSQL databases and MongoDB CRUD operations.",
-      "image": "https://img.freepik.com/premium-vector/coding-programmer-laptop-internet-work-concept-hand-drawn-hand-programmer-laptop-with-code-concept-sketch_160308-2737.jpg?w=360",
+      "description": "Get started with MongoDB and NoSQL databases by understanding collections, documents, and CRUD operations for storing flexible data structures.",
+      "image": "https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg",
       "userId": 3
     },
     {
       "id": 7,
       "title": "Fullstack MERN",
-      "description": "Build a fullstack app using Mongo, Express, React, and Node.",
+      "description": "Build complete fullstack applications using MongoDB, Express, React, and Node.js while learning how the technologies integrate together seamlessly.",
+      "image": "https://ids.ac.id/wp-content/uploads/2022/11/belajar-coding-2-1024x576.jpg",
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "title": "UI/UX Principles",
+      "description": "Discover the core principles of UI and UX design, including accessibility, usability, and intuitive layouts that improve user satisfaction.",
+      "image": "https://img.freepik.com/free-vector/developer-writing-code-website-laptop-computer-designer-flat-vector-illustration-coding-programming_74855-13055.jpg?semt=ais_incoming&w=740&q=80",
+      "userId": 2
+    },
+    {
+      "id": 9,
+      "title": "Authentication",
+      "description": "Implement secure login and registration systems with JWT tokens and protected routes to keep sensitive data safe within your applications.",
       "image": "https://www.excelsior.edu/wp-content/uploads/2025/01/computer-programming-vs-computer-science-image_blog.jpg",
       "userId": 3
+    },
+    {
+      "id": 10,
+      "title": "Deployment",
+      "description": "Step-by-step guide to deploying React applications to modern hosting platforms like Vercel and Netlify, including environment setup and CI/CD.",
+      "image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?semt=ais_hybrid&w=740&q=80",
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "title": "TypeScript Basics",
+      "description": "Learn the fundamentals of TypeScript, how it adds static typing to JavaScript, and how it prevents bugs through better tooling and interfaces.",
+      "image": "https://store.hp.com/app/assets/images/uploads/prod/computer-history-timeline-programming-languages1604677346377387.jpg",
+      "userId": 2
+    },
+    {
+      "id": 12,
+      "title": "API Integration",
+      "description": "Master API integration in React apps using Axios and RTK Query to efficiently fetch, cache, and synchronize data from external sources.",
+      "image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?semt=ais_hybrid&w=740&q=80",
+      "userId": 3
+    },
+    {
+      "id": 13,
+      "title": "React Router",
+      "description": "Implement navigation in React using React Router, including nested routes, protected routes, and programmatic navigation patterns.",
+      "image": "https://img.freepik.com/free-vector/hackathon-doodle-set-hand-drawn-icons-collection-programming-brainstorm-generation-ideas-deve_88138-1343.jpg?semt=ais_hybrid&w=740&q=80",
+      "userId": 1
+    },
+    {
+      "id": 15,
+      "title": "Next.js Intro",
+      "description": "Get started with Next.js and learn about server-side rendering, static site generation, and API routes for building modern web applications.",
+      "image": "https://www.shutterstock.com/image-vector/programming-concept-business-doodle-design-260nw-726315457.jpg",
+      "userId": 3
+    },
+    {
+      "title": "how to be UI/UX designer",
+      "description": "how to be UI/UX designer jjjjjjjjj",
+      "image": "https://i.ibb.co/DDbRs5p9/UIUX.jpg",
+      "userId": 1,
+      "id": 16
     }
   ]
 }
